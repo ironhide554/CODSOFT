@@ -46,7 +46,7 @@ The final model achieves an accuracy of 93%  on the test set. Detailed evaluatio
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the MIT(LICENSE) file for details.
 
 ---
 
